@@ -1,3 +1,3 @@
-## Hey, I'm Artem 👋
+## Hi, I'm Artem 👋
 
-4rd year CS student at Warsaw University of Technology
+4th-year Computer Science student at Warsaw University of Technology
